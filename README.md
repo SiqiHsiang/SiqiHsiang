@@ -6,6 +6,8 @@ Hi, I’m **Siqi Xiang**. I’m studying AI for Health and really into machine l
 
 - 🌱 I’m currently exploring **Machine Learning** and **Data Science**
 - 🤝 I’m looking to collaborate on **hands-on ML experiments**, cool **side projects**, and anything that helps me learn by building.
+- 💼 Previously worked as a **Strategy Analyst** at TikTok, where I focused on analyzing **business models, platform ecosystems, and strategic insights** for product and market growth.
+- 📊 Skilled at combining **data-driven methods with business analysis** — I enjoy breaking down complex systems and understanding how technology shapes industries. 
 - 💬 Ask me about: **Python**, **scikit-learn**, **pandas**, **NumPy**, **Matplotlib**, **XGBoost**, **LightGBM**
 - 📫 How to reach me: via Github or [Linkedin](https://www.linkedin.com/in/siqi-xiang/) message.
 - 🎯 Fun fact: I treat print() as my personal therapist.
