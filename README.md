@@ -13,10 +13,13 @@ Hi, I’m **Siqi Xiang**. I’m studying AI for Health and really into machine l
 - 🎯 Fun fact: I treat print() as my personal therapist.
 
 
-## 🛠️ Tools & Projects
-- Python, SQL
-- **Machine Learning**: scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, pandas, NumPy,etc
-  - **Projects**: [ML Pipeline & XGBoost](https://github.com/SiqiHsiang/fetal_health_classifier); [Visualization using Matplotlib and Seaborn](https://github.com/SiqiHsiang/heart_disease_prediction);
-- **Operations and Version Control**: MLOps, Git,Docker
-  - **Projects**: [Using Docker, Git, FastAPI to do prediction with two versions of ML models](https://github.com/SiqiHsiang/diabetes-triage-ml)
-- IDEs: Jupyter Notebook, VS Code
+## 🧰 Tech Stack & Projects
+- **Tools**: Python, SQL, Power BI, Tableau
+- **Machine Learning (Frameworks)**: PyTorch, scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, pandas, NumPy, etc
+  - **Selected Projects**:
+      - [ML End to End Pipeline & XGBoost & Seaborn](https://github.com/SiqiHsiang/fetal_health_classifier);
+      - [Data Visualization using Matplotlib and Seaborn & scikit-learn](https://github.com/SiqiHsiang/heart_disease_prediction);
+      - [PyTorch on Fashion MNIST](https://github.com/SiqiHsiang/pytorch-fashion-mnist-lab).
+- **Operations / MLOps / Version Control**: Git, Docker, FastAPI
+  - **Selected Projects**: [Using Docker, Git, FastAPI to do prediction with two versions of ML models](https://github.com/SiqiHsiang/diabetes-triage-ml)
+- **IDEs**: Jupyter Notebook, VS Code
