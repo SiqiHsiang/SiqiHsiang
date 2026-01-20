@@ -16,7 +16,7 @@ I focus on turning messy data into actionable insights, designing end-to-end pip
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 ### **Customer Retention Targeting & Decision System**
 *Python · AWS S3 · pandas · scikit-learn*
@@ -32,44 +32,41 @@ An end-to-end, business-driven data science project that simulates how real comp
 
 👉 Repo: https://github.com/SiqiHsiang/online-retail-churn
 
+### Other Selected Projects
+- **ML End-to-End Pipeline & XGBoost & Seaborn**: [fetal_health_classifier](https://github.com/SiqiHsiang/fetal_health_classifier);
+- **Data Visualization using Matplotlib and Seaborn & scikit-learn**: [heart disease prediction](https://github.com/SiqiHsiang/heart_disease_prediction);
+- **PyTorch Application**: [PyTorch on Fashion MNIST](https://github.com/SiqiHsiang/pytorch-fashion-mnist-lab).
+- **ML Model Deployment with Docker & FastAPI**: [diabetes triage](https://github.com/SiqiHsiang/diabetes-triage-ml)
+
 ---
 
 ## 🧰 Tech Stack
 
-### Data & Machine Learning
+**Data & Machine Learning**
 - Python, pandas, NumPy
 - scikit-learn, XGBoost, LightGBM, PyTorch
 - Feature engineering, model evaluation, decision metrics
 
-### Data Visualization
+**Data Visualization**
 - Matplotlib, Seaborn
 - Power BI, Tableau
-
-### Engineering & MLOps
+  
+**Engineering & MLOps**
 - Git, Docker
 - FastAPI
 - Batch pipelines, reproducible workflows
 
-### IDEs
+**IDEs**
 - Jupyter Notebook
 - VS Code
 
 ---
 
-## 📁 Other Selected Projects
-
-- [Fetal Health Classifier (End-to-End ML Pipeline)](https://github.com/SiqiHsiang/fetal_health_classifier)
-- [Heart Disease Prediction & Data Visualization](https://github.com/SiqiHsiang/heart_disease_prediction)
-- [PyTorch on Fashion MNIST](https://github.com/SiqiHsiang/pytorch-fashion-mnist-lab)
-- [ML Model Deployment with Docker & FastAPI](https://github.com/SiqiHsiang/diabetes-triage-ml)
-
----
-
 ## 🔭 What I’m Working Toward
 
-Building more **business-facing data science systems**, especially in areas like:
-- customer lifecycle & retention
-- resource allocation under constraints
-- decision-focused ML (when models help — and when they don’t)
+Building more **business-facing data science systems**, focusing on:
+- data-driven decision-making under uncertainty, using models selectively and responsibly
+- prioritization and optimization of resources under real-world constraints
+- decision-focused ML (when models help and when they don’t)
 
 If you’re interested in applied data science beyond just model training, feel free to reach out.
