@@ -1,8 +1,8 @@
-## Hi there 👋
+**👋 Hi there**~
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Siqi Xiang** — an aspiring **Applied Data Scientist** with a strong interest in building data-driven decision systems for real-world business problems.
+Hi, I’m **Siqi Xiang**, an aspiring **Applied Data Scientist** with a strong interest in building data-driven decision systems for real-world business problems.
 
 I focus on turning messy data into actionable insights, designing end-to-end pipelines, and evaluating decisions under real constraints (capacity, cost, uncertainty), rather than training models in isolation.
 
@@ -18,19 +18,25 @@ I focus on turning messy data into actionable insights, designing end-to-end pip
 
 ## ⭐ Featured Projects
 
-### **Customer Retention Targeting & Decision System**
-*Python · AWS S3 · pandas · scikit-learn*
+[Budget-Constrained Monetization Allocation & Decision System](https://github.com/SiqiHsiang/game-monetization-allocation)
 
-An end-to-end, business-driven data science project that simulates how real companies design, evaluate, and execute retention campaigns under resource constraints.
+*Python* • *PostgreSQL* • *Docker* • *Data Visualization*
 
-- Built a full pipeline from **raw transactional data** to **campaign-ready ranked customer lists**
-- Engineered time-based customer features (recency, frequency, monetary value) and churn labels using realistic lookback and prediction windows
-- Designed churn risk scoring and evaluated decisions using **precision@K** and **lift**
-- Implemented an **Expected Value (EV)** framework combining churn risk, customer value, incentive cost, and uplift assumptions
-- Produced final business artifacts including **EV-ranked customer lists**, **run summaries**, and **operator documentation** for marketing execution
-- Structured data and batch scoring pipelines on **AWS S3**, separating raw, processed, feature, score, and artifact layers
+A decision-focused system for allocating a fixed promotional budget to **maximize short-term incremental revenue**.
+- Framed monetization as a budget-constrained optimization problem at the *user × offer* level
+- Designed an **EV-based scoring framework** combining **historical spend**, **segment-level uplift**, and **per-user cost**
+- Implemented **global ranking and allocation** to produce executable campaign lists
+- Delivered **operator-ready artifacts** (allocation CSVs, EV curves, segment breakdowns) emphasizing interpretability
 
-👉 Repo: https://github.com/SiqiHsiang/online-retail-churn
+[Customer Retention Targeting & Decision System](https://github.com/SiqiHsiang/online-retail-churn)
+
+*Python* • *AWS S3* • *pandas* • *scikit-learn*
+
+An end-to-end retention decision system for selecting customers under operational constraints.
+- Built a pipeline from **transactional data to ranked customer lists**
+- Engineered time-based behavioral features and churn labels
+- Evaluated targeting strategies with **precision@K, lift, and Expected Value (EV)**
+- Produced campaign-ready artifacts for marketing execution
 
 ### Other Selected Projects
 - **ML End-to-End Pipeline & XGBoost & Seaborn**: [fetal_health_classifier](https://github.com/SiqiHsiang/fetal_health_classifier);
@@ -55,10 +61,6 @@ An end-to-end, business-driven data science project that simulates how real comp
 - Git, Docker
 - FastAPI
 - Batch pipelines, reproducible workflows
-
-**IDEs**
-- Jupyter Notebook
-- VS Code
 
 ---
 
